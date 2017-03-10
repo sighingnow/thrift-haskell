@@ -1,6 +1,7 @@
 {-# LANGUAGE MultiWayIf      #-}
 {-# LANGUAGE BangPatterns    #-}
 {-# LANGUAGE RecordWildCards #-}
+{-# LANGUAGE PatternSynonyms #-}
 -- |
 -- Module      :  Thrift.Protocol.Binary
 -- Copyright   :  (c) Winterland 2016
